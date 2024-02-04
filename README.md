@@ -1,2 +1,2 @@
 # Git
-1.
+1.jakiś tekst....
